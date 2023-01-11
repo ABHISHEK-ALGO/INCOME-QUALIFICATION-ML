@@ -1,2 +1,2 @@
 # INCOME-QUALIFICATION-ML
-Identify the level of income qualification needed for the families in Latin America
+ https://abhishek-algo.github.io/INCOME-QUALIFICATION-ML/
