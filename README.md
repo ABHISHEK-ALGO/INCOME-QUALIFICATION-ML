@@ -13,3 +13,8 @@ poverty declines.
 The Inter-American Development Bank (IDB)believes that new methods beyond traditional 
 econometrics, based on a dataset of Costa Rican household characteristics, might help improve 
 PMT’s performance
+
+## Objective
+Identify the level of income qualification needed for the families in Latin America.
+
+
